@@ -28,6 +28,12 @@
             <artifactId>spring-boot-devtools</artifactId>
         </dependency>
 
+        <dependency>
+            <groupId>com.zoromart</groupId>
+            <artifactId>user-module</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+
     </dependencies>
 
     <packaging>jar</packaging>
