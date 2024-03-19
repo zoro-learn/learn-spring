@@ -1,9 +1,9 @@
-package com.zoromart.com.zoromart.bootstrap;
+package com.zoromart.bootstrap;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
-@Componentc
+@Component
 public class DataBootstrap implements CommandLineRunner {
     @Override
     public void run(String... args) throws Exception {
